@@ -13,3 +13,4 @@ class HomeWindow(QWidget):
         self.avtor = AvtorWindow(previous_window=self)
         self.avtor.show()
         self.hide()
+

@@ -2,6 +2,7 @@ from psycopg2 import connect, Error, OperationalError
 
 
 
+
 class db_connection:
     def __init__(self, host='localhost', user='postgres', dbname='postgres',
                  password='root', port='5432'):

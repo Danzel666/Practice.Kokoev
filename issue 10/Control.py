@@ -7,3 +7,4 @@ if __name__ == "__main__":
     home = HomeWindow()
     home.show()
     sys.exit(app.exec_())
+
