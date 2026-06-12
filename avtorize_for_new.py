@@ -18,6 +18,7 @@ class AvtorWindow(QWidget):
         self.login = 0
         self.password = 0
 
+
     def open_register(self):
         login = self.ui.lineEdit.text().strip()
         password = self.ui.lineEdit_2.text().strip()

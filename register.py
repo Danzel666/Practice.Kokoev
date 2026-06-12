@@ -12,6 +12,7 @@ class RegisterWindow(QWidget):
         self.ui.pushButton.clicked.connect(self.add_operator)
         self.ui.pushButton_2.clicked.connect(self.go_back)
 
+
     def add_operator(self):
         fio = self.ui.lineEdit.text().strip()
         gender = self.ui.lineEdit_2.text().strip()

@@ -11,6 +11,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
+
 class Avtorize_new(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
