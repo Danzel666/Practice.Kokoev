@@ -79,3 +79,4 @@ class Reg(object):
         self.label_7.setText(_translate("Form", "Пароль"))
         self.pushButton.setText(_translate("Form", "Зарегестрировать"))
         self.pushButton_2.setText(_translate("Form", "<-"))
+

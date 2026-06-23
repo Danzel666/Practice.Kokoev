@@ -50,3 +50,4 @@ class Avtorize_new(object):
         self.label_3.setText(_translate("Form", "Пароль"))
         self.pushButton.setText(_translate("Form", "Войти"))
         self.pushButton_2.setText(_translate("Form", "<-"))
+

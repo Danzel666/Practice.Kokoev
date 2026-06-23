@@ -107,3 +107,4 @@ class NewSes(object):
         self.label_13.setText(_translate("Form", "<html><head/><body><p align=\"center\">№KA</p></body></html>"))
         self.pushButton.setText(_translate("Form", "Добавить"))
         self.pushButton_2.setText(_translate("Form", "<-"))
+

@@ -38,3 +38,4 @@ class Home(object):
         self.label.setText(_translate("Widget", "<html><head/><body><p align=\"center\">Добро пожаловать в</p><p align=\"center\">  систему</p></body></html>"))
         self.pushButton_2.setText(_translate("Widget", "Регистрация нового сотрудника"))
         self.pushButton_3.setText(_translate("Widget", "Авторизация"))
+

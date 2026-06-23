@@ -42,6 +42,7 @@ class AvtorWindowSes(QWidget):
             self.parent.show()
         self.close()
 
+
     def closeEvent(self, event):
         if self.db:
             self.db.close()
